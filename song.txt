@@ -17,3 +17,6 @@ apple
 banana
 orange
 
+sravani
+tangeda
+
