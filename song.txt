@@ -13,10 +13,6 @@ abc
 def
 ghi
 
-apple
-banana
-orange
 
-sravani
-tangeda
 
+hii
